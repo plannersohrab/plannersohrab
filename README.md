@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sohrab Hossain
 - 👀 I’m interested in Full Stack Software Development
-- 🌱 I’m currently learning Urban Planner, GIS specialist, and Software developer
+- 🌱 I’m an Urban Planner, GIS specialist, and Software developer
 - 💞️ I’m looking to collaborate on FOSS
 - 📫 Email me at plannersohrab@gmail.com
 
